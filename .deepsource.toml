@@ -6,4 +6,4 @@ enabled = true
 
   [analyzers.meta]
   import_paths = ["github.com/mingshii/kubernetes"]
-  dependencies_vendored = "false"
+  dependencies_vendored = false
